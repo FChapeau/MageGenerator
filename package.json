@@ -1,0 +1,14 @@
+{
+  "name": "MageGenerator",
+  "version": "0.0.0",
+  "description": "Automatic Mage: The Awakening character generator in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chapeau",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "~1.7.9"
+  }
+}

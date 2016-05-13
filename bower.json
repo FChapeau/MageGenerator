@@ -1,0 +1,21 @@
+{
+  "name": "MageGenerator",
+  "description": "Automatic Mage: The Awakening character generator in Javascript",
+  "main": "index.js",
+  "authors": [
+    "Chapeau"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.5.5"
+  }
+}
